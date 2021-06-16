@@ -1,4 +1,4 @@
-                                                    ZAMATO-DATA-SCIENCE-PROJECT
+                                                    ZOMATO-DATA-SCIENCE-PROJECT
                                                          TASK PERFORMED-
                                                                 1.EDA
                                                                 2.ANALYSIS
