@@ -1,5 +1,5 @@
-                                                <h1>    ZOMATO-DATA-SCIENCE-PROJECT <h1>
-                                                <h1>                TASK PERFORMED-      <h1>
+                                                <h1>ZOMATO-DATA-SCIENCE-PROJECT<h1>
+                                                <h1>TASK PERFORMED<h1>
                                                                       1.EDA
                                                                       2.ANALYSIS
                                                                       3.MACHINE LEARNING MODEL
